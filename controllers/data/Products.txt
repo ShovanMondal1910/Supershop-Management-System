@@ -1,0 +1,7 @@
+1,Catfish,fish,local,350.0,30,fresh
+8,coca cola,coke,coca cola,25.0,24,g
+2,chicken,meat,local,200.0,12,fresh
+3,beef,meat,local,750.0,30,fresh
+4,orange juice,juice,Frutika,60.0,10,preserved
+5,mango juice,juice,frutika,100.0,12,preserved item
+6,lichi,fruit,local,500.0,50,fresh

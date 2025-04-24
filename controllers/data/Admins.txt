@@ -1,0 +1,12 @@
+A-1,Shovan,Male,21,shovan@aiub.edu,01764858673,Kuril,Academic Admin
+
+A-323,dfxz,Male,33,dzdvf,dzfvxz,sadfa,Academic Admin
+
+A-143,dfgfv,Male,22,sfsrd,fdgsfdv,dtgbdr,Academic Admin
+
+A-2,Shovan,Male,21,shovan@aiub.edu,01764858673,Kuril,Academic Admin
+
+A-3,Shovan,Male,21,shovan@aiub.edu,01764858673,Kuril,Academic Admin
+
+A-123,sdfas,Male,33,fasf,fsafs,dfasfasg,Academic Admin
+
